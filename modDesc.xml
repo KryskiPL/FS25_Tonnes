@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<modDesc descVersion="113">
+	<author>KryskiPL</author>
+	<version>1.0.0.0</version>
+	<title>
+		<en>Tonnes</en>
+		<de>Tonnen</de>
+	</title>
+	<description>
+		<en><![CDATA[Displays fill levels, silos, bales, pallets, and animal food in kg/t/tn/lbs instead of liters.
+Github: https://github.com/KryskiPL/FS25_Tonnes
+
+- Master switch: Enable and disable the entire mod at any time.
+- Weight units: Metric Tonnes (t), US Short Tons (tn), or Pounds (lbs).
+- Scale: 100 kg / 1 t format selection (Cannot be changed when Pounds are selected).
+- Silos: Fill levels and silo dialogs.
+- Animals menu: Food capacity.
+- Equipment & vehicles (HUD): Fill level displays for machines and trailers in the HUD.
+- Seeders and fertilizer spreaders.
+- Bales & pallets: Bale weight on tractor front loader in the info window.
+- Application rate: Display usage in kg/ha or l/ha.
+- All options can be configured in the General Settings menu.
+- Multiplayer supported.
+
+- Re-uploading this mod to other sites is strictly prohibited.]]></en>
+		<de><![CDATA[Zeigt Füllstände, Silos, Ballen, Paletten und Tierfutter in kg/t/tn/lbs statt in Litern an.
+Github: https://github.com/KryskiPL/FS25_Tonnes
+
+- Hauptschalter: Den gesamten Mod jederzeit ein- und ausschalten.
+- Gewichtseinheiten: Metrische Tonnen (t), US-Tonnen (tn) oder Pfund (lbs).
+- Skala: Formatwahl 100 kg / 1 t (kann nach Auswahl von Pfund nicht geändert werden).
+- Silos: Füllstände und Silo-Fenster.
+- Tiermenü: Futterkapazität.
+- Fahrzeuge & Geräte (HUD): Füllstandsanzeigen für Maschinen und Anhänger im HUD.
+- Sämaschinen und Düngerstreuer.
+- Ballen & Paletten: Ballengewicht auf dem Frontlader des Traktors im Infofenster.
+- Ausbringmenge: Anzeige des Verbrauchs in kg/ha oder l/ha.
+- Alle Optionen können in den Allgemeinen Einstellungen des Spiels angepasst werden.
+- Multiplayer-Unterstützung.
+
+- Ein erneutes Hochladen (Re-Upload) auf andere Webseiten ist untersagt.]]></de>
+		<fr><![CDATA[Affiche les niveaux de remplissage, silos, balles, palettes et nourriture des animaux en kg/t/tn/lbs au lieu de litres.
+Github: https://github.com/KryskiPL/FS25_Tonnes
+
+- Interrupteur général : Activer et désactiver l'ensemble du mod à tout moment.
+- Unités de poids : Tonnes métriques (t), Tonnes courtes US (tn) ou Livres (lbs).
+- Échelle : Choix du format 100 kg / 1 t (non modifiable lorsque les Livres sont sélectionnées).
+- Silos : Niveaux de remplissage et fenêtres des silos.
+- Menu des animaux : Capacité de nourriture.
+- Véhicules & outils (HUD) : Indicateurs de remplissage des machines et remorques dans le HUD.
+- Semoirs et épandeurs d'engrais.
+- Balles & palettes : Poids des balles sur chargeur frontal du tracteur dans la fenêtre d'information.
+- Débit d'épandage : Affichage de la consommation en kg/ha ou l/ha.
+- Toutes les options peuvent être configurées dans les Paramètres Généraux du jeu.
+- Compatible multijoueur.
+
+- Interdiction de re-publier ce mod sur d'autres sites.]]></fr>
+		<pl><![CDATA[Wyświetla poziomy napełnienia, silosy, bele, palety oraz paszę dla zwierząt w kg/t/tn/lbs zamiast w litrach.
+Github: https://github.com/KryskiPL/FS25_Tonnes
+
+- Główny wyłącznik: Włączanie i wyłączanie całego moda w dowolnej chwili.
+- Jednostki wagi: Tony metryczne (t), Amerykańskie tony (tn) lub Funty (lbs).
+- Podziałka: Wybór formatu 100 kg / 1 t (Po wybraniu Funtów nie można zmienić).
+- Silosy: Poziom napełnienia oraz okna silosów.
+- Menu zwierząt: Pojemność paszy.
+- Sprzęt i pojazdy (HUD): Wskaźniki napełnienia maszyn i przyczep w HUD.
+- Siewniki i rozsiewacze nawozu.
+- Bele i palety: Waga beli na ładowacz czołowy ciągnika w oknie podglądu.
+- Dawka nawożenia: Wyświetlanie zużycia w kg/ha lub l/ha.
+- Wszystkie opcje można dostosować w Ustawieniach Ogólnych gry.
+- Wspiera multiplayer.
+
+- Zakaz reuploudu modu na inne strony.]]></pl>
+	</description>
+	
+	<iconFilename>icon_Toness.dds</iconFilename>
+	<multiplayer supported="true" />
+
+	<extraSourceFiles>
+		<sourceFile filename="Tonnes.lua" />
+	</extraSourceFiles>
+</modDesc>
